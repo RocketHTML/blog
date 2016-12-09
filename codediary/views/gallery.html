@@ -1,0 +1,56 @@
+<nav class="navbar navbar-inverse">
+      <div class="navbar-header blog-dropdown">
+        <a class="navbar-brand dropdown-toggle" 
+           data-toggle="dropdown" 
+           role="button"> 
+           I hate the snow <span class="caret"></span>
+        </a>
+
+        <ul class="dropdown-menu">
+          <li ng-repeat="topic in categories" > <!-- ng repeat -->
+            <a 
+              ng-click="changeLocation($index)" > {{topic.name}}
+            </a>
+          </li>
+        </ul>
+      </div>
+</nav>
+
+
+<!-- Buttons -->
+  <div class="container"> 
+    <div class="btn-group" role="group" aria-label="...">
+
+      <button 
+        type="button" 
+        class="btn btn-inverse" 
+        ng-repeat="n in range(1,(images[location].length+1))"
+        ng-click="changePic($index)"
+        >{{n}}   
+      </button>
+
+    </div>
+  </div>
+<!--      -->
+<div>
+  <p id="location"> 
+      title: <strong>{{pic.title}}</strong><br>
+      {{pic.github}}
+  </p>
+</div>
+
+<div>
+  <h2 id="album">{{categories[location].name}}<h2>
+</div>
+
+<div> 
+  <p id="description">
+    {{pic.description}}
+  </p>
+</div>
+<!-- Images -->
+  <div class="container">
+    <div id="image">
+        <img ng-src="{{ images[location][picIndex].url }}">
+    </div>
+  </div>

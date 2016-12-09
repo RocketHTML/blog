@@ -1,0 +1,242 @@
+[
+	[
+		{
+			"title": "Howdy",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/Leaves.jpg",
+			"description": "I'm Madison, an aspiring software developer. I built this little gallery in angularJS.",
+			"github": ""
+		},
+		{
+			"title": "Snow Mobile",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/hatesnow_1.jpg",
+			"description": "",
+			"github": ""
+		},
+		{
+			"title": "Blizzard",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/snow2_1.jpg",
+			"description": "Tons of snow.",
+			"github": ""
+		}
+	],
+
+	[
+		
+		{
+			"title": "Chatroom App",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/username.png",
+			"description": "First you make a username.",
+			"github": "https://github.com/RocketHTML/thecodediaries;\nhttps://youtu.be/uhBq0eJY4tw"
+		},
+
+		{
+			"title": "Rooms",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/roomlist.png",
+			"description": "You'll then see what rooms are currently available.",
+			"github": "https://github.com/RocketHTML/thecodediaries;\nhttps://youtu.be/uhBq0eJY4tw"
+		},
+
+		{
+			"title": "kittylover5536 joined the room",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/room.png",
+			"description": "Click on a room to join it.",
+			"github": "https://github.com/RocketHTML/thecodediaries;\nhttps://youtu.be/uhBq0eJY4tw"
+		},
+
+		{
+			"title": "Make A Chatroom",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/makeroom.png",
+			"description": "Click 'Make Room' to make your own chatroom.",
+			"github": "https://github.com/RocketHTML/thecodediaries;\nhttps://youtu.be/uhBq0eJY4tw"
+		},
+
+		{
+			"title": "Chat It Up",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/joinroom.png",
+			"description": "Chat about stuff.",
+			"github": "https://github.com/RocketHTML/thecodediaries;\nhttps://youtu.be/uhBq0eJY4tw"
+		}
+
+	],
+
+	[
+		{
+			"title": "Code Academy",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/students.png",
+			"description": "Code Academy covers the basics fairly well.",
+			"github": ""
+		},
+		{
+			"title": "Python and Inheritence",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/making%20rpg.png",
+			"description": "",
+			"github": "https://github.com/RocketHTML/nowhere_kids_python"
+		},
+		{
+			"title": "GML",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/china.png",
+			"description": "My best student made this in\nGML (Game Maker's Langauge).",
+			"github": "https://akocruz.blogspot.com/p/welcome.html"
+		}
+	],
+
+	[
+		
+		{
+			"title": "Ader",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/Earnings.png",
+			"description": "This app replaces incoming ads with different ads, and then pays you a bit for each ad you see.",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Preferences",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/ader%20preferences.png",
+			"description": "It lets you pick your ad preferences.",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Extensions",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/extensions%20view.png",
+			"description": "",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Before Ader 1",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/w3schools%202%20none.png",
+			"description": "Before Ader...",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "After Ader 1",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/w3schools%202%20ader%20on.png",
+			"description": "Notice the ads have become gamer oriented.",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Ader Logo",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/tutorialspoint%20ader.png",
+			"description": "We put the logo into circulation to make it easier to notice during the demo.",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Before Ader 3",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/kissmanga%20none.png",
+			"description": "Sometimes I enjoy reading manga.",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "After Ader 3",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/kissmanga%20ader.png",
+			"description": "And now I can make a little pocket change too.",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Before Ader 4",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/facebook%20none-tiltshift.png",
+			"description": "",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "After Ader 4",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/facebook%20ader-tiltshift.png",
+			"description": "",
+			"github": "https://github.com/RocketHTML/Ader"
+		},
+		{
+			"title": "Ader Signin",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/ader%20sign%20in.png",
+			"description": "Advertisers would rather pay you. Trust me.",
+			"github": "https://github.com/RocketHTML/Ader"
+		}
+	],
+
+	[
+		{
+			"title": "Hiking",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/pond_1.jpg",
+			"description": "",
+			"github": ""
+		},
+		{
+			"title": "Bloo",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/dog.jpg",
+			"description": "My God mother's puppy.",
+			"github": ""
+		},
+		{
+			"title": "Coffee",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/coffee.jpg",
+			"description": "A cup of coffee for each day of the week.",
+			"github": ""
+		},
+		{
+			"title": "Jesus is in Philly",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/jesus.jpg",
+			"description": "I visited Phildelphia for an internship at Viridity Energy. But I never thought I'd find Jesus there.",
+			"github": "https://medium.com/pennapps-fellows/meet-the-pennapps-fellows-2015-2bc7e46cd256#.soj92kot1"
+		},
+		{
+			"title": "Technicians",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/viridity.jpg",
+			"description": "A few of the technicians I worked with are going to their daily scrum meeting.",
+			"github": ""
+		},
+		{
+			"title": "Nina's Birthday",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/birthday.jpg",
+			"description": "",
+			"github": ""
+		},
+		{
+			"title": "I'm A Doodler",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/MikkuWakku.jpg",
+			"description": "",
+			"github": "https://www.youtube.com/watch?v=mZ5SATtPWWs"
+		}
+	],
+
+	[	
+	
+		{
+			"title": "Big Smiles",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/dad.jpg",
+			"description": "I inherited big goofy smiles from my dad.",
+			"github": "https://www.amherst.edu/"
+		},
+		{
+			"title": "Family",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/family.jpg",
+			"description": "Takin selfies",
+			"github": ""
+		},
+		{
+			"title": "Baby Face",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/suit.jpg",
+			"description": "",
+			"github": ""
+		}
+	],
+
+	[
+		
+		{
+			"title": "Culinary Genius",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/muffins.jpg",
+			"description": "Mom treats me like a king.",
+			"github": ""
+		},
+		{
+			"title": "The Crew",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/cooks.jpg",
+			"description": "The best I can do is canned ravioli on my own.",
+			"github": ""
+		},
+		{
+			"title": "Work Hard",
+			"url": "http://i286.photobucket.com/albums/ll91/00blazzer2/mom.jpg",
+			"description": "",
+			"github": ""
+		}
+	]
+
+]
