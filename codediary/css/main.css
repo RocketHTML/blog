@@ -1,0 +1,62 @@
+body {
+	background-color: black;
+}
+
+.dropdown-menu{
+	box-shadow: 0 6px 12px rgba(0,0,0,.5);
+	background-color:black;
+}
+.nav-button:hover{
+	cursor:pointer;
+	}
+
+.dropdown-menu li a{
+	color:white;
+}
+.dropdown-menu li a:hover{
+	background-color:pink;
+}
+
+#location {
+	height: 40px;
+	/*background: pink;*/
+}
+
+#description{
+	height: 60px;
+	/*background: orange;*/
+	margin-bottom: 4px;
+}
+
+#comment {
+	color:white;
+}
+
+#image{
+	width: 500px;
+	height: 500px;
+	padding: 10px 10px 10px 10px;
+	/*background: gray;*/
+}
+#buttons-images{
+	width: 500px;
+	height: 500px;
+}
+#gallerybuttons{
+	position: relative;
+	top: -3px;
+	left:0px;
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.floatleft{
+	float:left;
+}
+#space{
+	height:30px;
+}
+
